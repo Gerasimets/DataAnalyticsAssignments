@@ -1,3 +1,3 @@
-# DataAnalyticsAssignments
+# Data_Analytics_Projects
 
-This repository contains assignments from the course Statistics for Data Science with Python
+This repository contains data analysis projects and assignments from completed courses.
